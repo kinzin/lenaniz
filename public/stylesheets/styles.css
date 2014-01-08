@@ -1,9 +1,16 @@
+h1, li {
+  font-family: 'Alegreya Sans';
+}
+
+
+
 ul {
   font-size: 1.5em;
 }
 
 .container {
   text-align: center;
+  padding-top: 5%; 
 }
 
 img {
